@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/navid/OneDrive/Desktop/C programming/ASTM-3/main.c
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+

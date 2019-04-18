@@ -1,0 +1,2 @@
+12 bit hamming code
+    bit 1,2,4,8 are parity bits
